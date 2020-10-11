@@ -24,7 +24,7 @@ The Heart Model
 
 ## Report to the User
 
-Any user can their report of the conducted assessments in a very readable manner depicted below.
+Any user view can their report of the conducted assessments in a very readable manner depicted below.
 
 ![WhatsApp Image 2020-10-11 at 12 20 38](https://user-images.githubusercontent.com/47575172/95675029-e69c3780-0bd1-11eb-9424-77d17cd7b7d4.jpeg)
 
