@@ -27,3 +27,6 @@ The Heart Model
 
 Any user can their report of the conducted assessments in a very readable manner depicted below.
 ![WhatsApp Image 2020-10-11 at 12 20 38](https://user-images.githubusercontent.com/47575172/95675029-e69c3780-0bd1-11eb-9424-77d17cd7b7d4.jpeg)
+
+## Other UI Screenshots
+![All Mockups (1)](https://user-images.githubusercontent.com/47575172/95675185-e7819900-0bd2-11eb-843b-c004f4dfc858.png)
