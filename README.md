@@ -14,7 +14,7 @@ There mainly two division of files in this project. They are: the **_iOS App Cod
 
 There are two Deep Learning Models used in this project. One to detect chances of contacting Novel Coronavirus and another to detect chances of heart related health issues. The Covid Model uses a 4-layer ANN Architecture and the Heart Model uses a 5-Layer ANN Architecture. The inputs for both the models are simple day to day questions whose answers are readily available to a user.
 
-The two models can be visualised as follows:
+The two models can be visualised as follows: -
 
 The Covid Model
 ![nn (2)](https://user-images.githubusercontent.com/47575172/95674948-5100a800-0bd1-11eb-8082-fb26e79af045.png)
@@ -24,7 +24,7 @@ The Heart Model
 
 ## Report to the User
 
-Any user view can their report of the conducted assessments in a very readable manner depicted below.
+Any user view can their report of the conducted assessments in a very readable manner depicted below. 
 
 ![WhatsApp Image 2020-10-11 at 12 20 38](https://user-images.githubusercontent.com/47575172/95675029-e69c3780-0bd1-11eb-9424-77d17cd7b7d4.jpeg)
 
