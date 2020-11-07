@@ -4,7 +4,7 @@ This project aims to allow the users of diffrent age groups to self diagnose the
 
 ## Files
 
-There mainly two division of files in this project. They are: the **_iOS App Code_** files and the **_Deep Learning Model Files_**. The Deep Learning Models can be found under the [DL Models Folder](https://github.com/thefitcoder/Vitalizer/tree/main/DL%20Models). The Rest of the app code can be browsed through the repo.
+There are mainly two division of files in this project. They are: the **_iOS App Code_** files and the **_Deep Learning Model Files_**. The Deep Learning Models can be found under the [DL Models Folder](https://github.com/thefitcoder/Vitalizer/tree/main/DL%20Models). The Rest of the app code can be browsed through the repo.
 
 ## Running the Application
 
