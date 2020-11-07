@@ -1,6 +1,6 @@
 # Vicara_HealthCareCrisis_VITalizer
 
-This project aims to allow the users to self diagnose themselves.Vitaliser is an app created with the aim to help people diagnose their diseases by giving inputs about their symptoms in a simple questionnaire and receiving their health reports. This app will tell the acuteness of the risk your body is at and will guide you to what you next step should be.This app is made with the easiest to understand UI yet has all the features to best diagnose the disease and help the patient take a quick action in case of high risk.After the completion of the hackathon we further plan to extend this project to include more diseases in the diagnoses range and enhance the features for more better user experience.
+This project aims to allow the users of differnt age groups to self diagnose themselves.Vitaliser is an app created with the aim to help people diagnose their diseases by giving inputs about their symptoms in a simple questionnaire and receiving their health reports. This app will tell the acuteness of the risk your body is at and will guide you to what you next step should be.This app is made with the easiest to understand UI yet has all the features to best diagnose the disease and help the patient take a quick action in case of high risk.After the completion of the hackathon we further plan to extend this project to include more diseases in the diagnoses range and enhance the features for more better user experience.
 
 ## Files
 
